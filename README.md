@@ -1,2 +1,1 @@
-# C-work
-C++tutorial
+# C++tutorial
